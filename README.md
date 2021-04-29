@@ -15,3 +15,7 @@
 ☑ **Gün 2 Ödev 1 - Day 2 Homework 1**: *Özellik nesnesi olarak tanımladığımızı düşündüğünüz iki örnek veriniz. Bunlara ait class, contructor yapılarını oluşturup diziye ekleyip listeleyiniz. İş sınıfı olarak tanımladığımızı düşündüğünüz bir class oluşturunuz. En az iki metot yazınız.*
 
 Ödeve doğrudan eriş - Access to the homework directly: <a href="https://github.com/konstantinlevin77/javaBootcamp/tree/master/homeworks/day2homework1">Gün 2 Ödev 1 - Day 2 Homework 1!</a>
+
+☑ **Gün 3 Ödev 1 - Day 3 Homework 1**: *User, Instructor, Student nesnelerini modelleyiniz. (Class-Inheritance) UserManager, InstructorManager, StudentManager için sistemde olabilecek operasyonları tahminleyip modelleyiniz. (Class-Inheritance-Method)*
+
+Ödeve doğrudan eriş - Access to the homework directly: <a href="https://github.com/konstantinlevin77/javaBootcamp/tree/master/homeworks/day3homework1">Gün 3 Ödev 1 - Day 3 Homework 1!</a>
