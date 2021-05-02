@@ -1,4 +1,4 @@
-package homeworks;
+package homeworks.day3;
 
 public class InstructorManager extends UserManager{
 

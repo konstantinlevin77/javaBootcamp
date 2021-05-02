@@ -1,3 +1,5 @@
+package homeworks.day2;
+
 public class CourseManager {
 	
 	public void enrollCourse(Course course) {

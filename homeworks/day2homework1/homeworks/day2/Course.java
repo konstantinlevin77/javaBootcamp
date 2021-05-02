@@ -1,3 +1,5 @@
+package homeworks.day2;
+
 public class Course {
 	String courseName;
 	String instructorName;
