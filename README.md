@@ -20,6 +20,10 @@
 
 Ödeve doğrudan eriş - Access to the homework directly: <a href="https://github.com/konstantinlevin77/javaBootcamp/tree/master/homeworks/day3homework1">Gün 3 Ödev 1 - Day 3 Homework 1!</a>
 
+☑ **Gün 4 Ödev 1 - Day 4 Homework 1**: *Aşağıda sektör için çok değerli bir örneği yapan yayını bırakıyorum. [Yayın linki](https://youtu.be/6VYDltTF2b4) Bu yayın C# ile yapıldı. Aynı yapıyı Java için kurunuz.*
+
+Ödeve doğrudan eriş - Access to the homework directly: <a href="https://github.com/konstantinlevin77/javaBootcamp/tree/master/homeworks/day4homework1/homeworks/day4/homework1">Gün 4 Ödev 1 - Day 4 Homework 1!</a>
+
 ☑ **Gün 4 Ödev 2 - Day 4 Homework 2**: *Bir oyun yazmak istiyorsunuz. Bu yazılım için backend kodlarını JAVA ile geliştirmeyi planlıyoruz. Yeni üye, satış ve kampanya yönetimi yapılması isteniyor. Detaylı açıklama [kodlama.io](https://www.kodlama.io/)*
 
 Ödeve doğrudan eriş - Access to the homework directly: <a href="https://github.com/konstantinlevin77/javaBootcamp/tree/master/homeworks/day4homework2">Gün 4 Ödev 2 - Day 4 Homework 2!</a>
