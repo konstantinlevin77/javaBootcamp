@@ -32,8 +32,9 @@ public class Main {
 		
 		DiscountCampaign campaign1 = new DiscountCampaign();
 		
-		testGameManagerClass(acc1,game1,campaign1);
+		testGameManagerClass(game1);
 		
+		testSaleManagerClass(acc1, game1, campaign1);		
 		
 	}
 	
@@ -90,13 +91,19 @@ public class Main {
 		
 	}
 	
-	public static void testGameManagerClass(Account account, Game game, Campaign campaign) {
+	public static void testGameManagerClass(Game game) {
 		GameManager gameManager = new GameManager();
 		gameManager.addGame(game);
 		gameManager.deleteGame(game);
 		gameManager.updateGame(game);
-		gameManager.buyGame(game, account);
-		gameManager.buyGame(game, account, campaign);
+		
+	}
+	
+	public static void testSaleManagerClass(Account account, Game game, Campaign campaign){
+		
+		SaleManager saleManager = new SaleManager();
+		saleManager.buyGame(game, account);
+		saleManager.buyGame(game, account, campaign);
 	}
 
 }
