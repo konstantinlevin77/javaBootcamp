@@ -4,5 +4,12 @@
 	<classpathentry kind="src" path="day2homework1"/>
 	<classpathentry kind="src" path="day3homework1"/>
 	<classpathentry kind="src" path="day4homework2"/>
+	<classpathentry kind="src" path="day4homework1"/>
+	<classpathentry kind="lib" path="/home/lauda/eclipse_jee/plugins/org.apache.axis_1.4.0.v201411182030/lib/axis.jar"/>
+	<classpathentry kind="lib" path="/home/lauda/eclipse_jee/plugins/org.apache.commons.discovery_0.2.0.v201004190315/lib/commons-discovery-0.2.jar"/>
+	<classpathentry kind="lib" path="/home/lauda/eclipse_jee/plugins/javax.xml.rpc_1.1.0.v201209140446/lib/jaxrpc.jar"/>
+	<classpathentry kind="lib" path="/home/lauda/eclipse_jee/plugins/javax.xml.soap_1.2.0.v201005080501/lib/saaj.jar"/>
+	<classpathentry kind="lib" path="/home/lauda/eclipse_jee/plugins/javax.wsdl_1.6.2.v201012040545.jar"/>
+	<classpathentry kind="lib" path="/home/lauda/eclipse_jee/plugins/org.apache.commons.logging_1.2.0.v20180409-1502.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
