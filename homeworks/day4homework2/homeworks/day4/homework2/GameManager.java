@@ -1,4 +1,4 @@
-package homeworks.day4;
+package homeworks.day4.homework2;
 
 public class GameManager {
 	
