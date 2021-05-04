@@ -1,12 +1,11 @@
 package examples.example1.managers;
-
-import examples.example1.abstracts.*;
 import examples.example1.entities.*;
 
-public class PersonalCustomerManager extends BaseCustomerManager {
+
+public class PersonalCustomerManager extends CustomerManager {
 	
 	
-	public void add(PersonalCustomer customer) {
+	public void addUser(PersonalCustomer customer) {
 		super.add(customer);
 		System.out.println("\n"+customer.getFirstName()+
 				"\n"+customer.getLastName()+
@@ -14,7 +13,7 @@ public class PersonalCustomerManager extends BaseCustomerManager {
 				+"\n"+customer.getAge());
 	}
 	
-	public void delete(PersonalCustomer customer) {
+	public void deleteUser(PersonalCustomer customer) {
 		super.delete(customer);
 		System.out.println("\n"+customer.getFirstName()+
 				"\n"+customer.getLastName()+
@@ -22,7 +21,7 @@ public class PersonalCustomerManager extends BaseCustomerManager {
 				+"\n"+customer.getAge());
 	}
 	
-	public void update(PersonalCustomer customer) {
+	public void updateUser (PersonalCustomer customer) {
 		super.update(customer);
 		System.out.println("\n"+customer.getFirstName()+
 				"\n"+customer.getLastName()+

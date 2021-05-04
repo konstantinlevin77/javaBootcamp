@@ -1,6 +1,6 @@
 package examples.example1.abstracts;
 
-public abstract class BaseCustomer {
+public class BaseCustomer {
 	
 	private int id;
 	private String email;
