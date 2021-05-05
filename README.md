@@ -27,3 +27,6 @@
 ☑ **Gün 4 Ödev 2 - Day 4 Homework 2**: *Bir oyun yazmak istiyorsunuz. Bu yazılım için backend kodlarını JAVA ile geliştirmeyi planlıyoruz. Yeni üye, satış ve kampanya yönetimi yapılması isteniyor. Detaylı açıklama [kodlama.io](https://www.kodlama.io/)*
 
 Ödeve doğrudan eriş - Access to the homework directly: <a href="https://github.com/konstantinlevin77/javaBootcamp/tree/master/homeworks/day4homework2">Gün 4 Ödev 2 - Day 4 Homework 2!</a>
+
+
+.
