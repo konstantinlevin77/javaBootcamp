@@ -28,5 +28,9 @@
 
 Ödeve doğrudan eriş - Access to the homework directly: <a href="https://github.com/konstantinlevin77/javaBootcamp/tree/master/homeworks/day4homework2">Gün 4 Ödev 2 - Day 4 Homework 2!</a>
 
+☑ **Gün 5 Ödev 1 - Day 5 Homework 1**: *Aşağıda bir e-ticaret sisteminde sisteme kayıt ve sisteme giriş için gerekli gereksinim ve kabul kriterlerini yazdım. Bu sisteme ait Java backend yazmak istiyoruz.*
+
+Ödeve doğrudan eriş - Access to the homework directly: <a href="https://github.com/konstantinlevin77/javaBootcamp/tree/master/homeworks/day5homework1">Gün 5 Ödev 1 - Day 5 Homework 1!</a>
+
 
 .
